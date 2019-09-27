@@ -1,6 +1,6 @@
 # http_example
 
-A new Flutter project.
+A new Flutter project. The Example of HTTP Request. Enjoy it !
 
 ## Getting Started
 
